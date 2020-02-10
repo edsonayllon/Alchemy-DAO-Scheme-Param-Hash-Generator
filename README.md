@@ -1,8 +1,21 @@
+---
+author: Edson Ayllon
+category: functionality
+tags:
+- Smart Contract
+- Web3
+- React
+status: complete
+twitter: https://twitter.com/relativeread
+---
+
+## Modular 34-2019
+
 # Alchemy DAO Scheme Param Hash Generator
  
 ## Description
 
-Provides a parameter hash for parameters you choose. 
+Provides a parameter hash for parameters you choose for use in DAOStack Schemes.
 
 ## Gettings Started
 
